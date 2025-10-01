@@ -1,0 +1,9 @@
+# FreeCAD generated files
+*.stl
+*.FCBak
+*.FCStd1
+
+# Temporary files
+*~
+*.swp
+*.swo
